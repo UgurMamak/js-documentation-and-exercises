@@ -1,0 +1,6 @@
+.loading{
+  display: none;
+  &.open{
+    display:block;
+  }
+}

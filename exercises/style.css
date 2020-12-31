@@ -1,0 +1,8 @@
+.loading {
+  display: none;
+}
+
+.loading.open {
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */

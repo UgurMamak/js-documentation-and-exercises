@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b307b1-30c8-4d76-9789-9fdc01eaf31e" name="Default Changelist" comment="" />
+    <list default="true" id="97b307b1-30c8-4d76-9789-9fdc01eaf31e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/doviz-cevirici/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doviz-cevirici/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doviz-cevirici/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oem-calculator/currencies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oem-calculator/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oem-calculator/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oem-calculator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz-app/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile-search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile-search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile-search/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/profile-search/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +21,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,9 +38,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dizinler\Kurs Çalışmaları\javascript-exercises\exercises" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dizinler\Kurs Çalışmaları\javascript-exercises" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,6 +62,16 @@
       <option name="presentableId" value="Default" />
       <updated>1606748868096</updated>
       <workItem from="1606748869722" duration="326000" />
+      <workItem from="1607780944986" duration="773000" />
+      <workItem from="1608453667251" duration="7375000" />
+      <workItem from="1608801498172" duration="1725000" />
+      <workItem from="1608814554618" duration="2215000" />
+      <workItem from="1608877882011" duration="7998000" />
+      <workItem from="1609224121168" duration="25967000" />
+      <workItem from="1609254941508" duration="63000" />
+      <workItem from="1609310296546" duration="21871000" />
+      <workItem from="1609333805244" duration="6041000" />
+      <workItem from="1609396480415" duration="24753000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1606748967073</created>
@@ -53,17 +93,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1607781060667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1607781060667" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609332840684">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609332840684" />
     <state x="2505" y="88" key="CommitChangelistDialog2" timestamp="1606748965665">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2505" y="88" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606748965665" />
+    <state x="437" y="190" key="EditFileWatcherDialog" timestamp="1609335173572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="190" key="EditFileWatcherDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609335173572" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1609335175209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609335175209" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609318881191" />
+    <state width="504" height="446" key="SwitcherDM" timestamp="1609416373511">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="504" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609416373511" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606748968815">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606748968815" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1609402036201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609402036201" />
     <state x="2681" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606748937027">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2681" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606748937027" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1609406662119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609406662119" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609398380312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609398380312" />
   </component>
 </project>

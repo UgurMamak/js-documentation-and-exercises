@@ -1,0 +1,114 @@
+@charset "UTF-8";
+.followers-page {
+  font-family: "Ubuntu", sans-serif;
+}
+.followers-page h1 {
+  margin-bottom: 1%;
+  text-decoration: none;
+}
+.followers-page .follower-card {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  flex-grow: 1;
+  text-transform: uppercase;
+  color: #81878b;
+  border-radius: 10px;
+  box-shadow: 0 4px 37px 0 rgba(141, 141, 141, 0.23);
+}
+.followers-page .follower-card + .follower-card {
+  margin-top: 10px;
+}
+.followers-page .follower-card .follower-img {
+  padding: 1%;
+  text-align: center;
+  align-items: center;
+  flex: 0 0 auto;
+}
+.followers-page .follower-card .follower-img img {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+.followers-page .follower-card .follower-title {
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  border-right: 1px solid rgba(0, 0, 0, 0.125);
+  justify-content: center;
+}
+.followers-page .follower-card .follower-title .title {
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.followers-page .follower-card .follower-title .username {
+  text-transform: lowercase;
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.followers-page .follower-card .follower-info {
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 8;
+  font-size: 12px;
+  border-right: 1px solid rgba(0, 0, 0, 0.125);
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+.followers-page .follower-card .follow-button {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+}
+.followers-page .follower-card .follow-button .btn-tertiary {
+  background-color: #2879BF;
+  color: #ffff;
+  border: none;
+  cursor: pointer;
+  transition: ease all 0.3s;
+  width: 100%;
+  height: 100%;
+  border-radius: 0px 10px 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.followers-page .follower-card .follow-button .btn-tertiary:hover {
+  background-color: #2466a0;
+}
+.followers-page .follower-card .follow-button .btn-tertiary .bx {
+  font-size: 25px;
+  margin-right: 10px;
+}
+.followers-page .follower-card .follow-button .btn-tertiary.checked .bx:before {
+  content: "";
+}
+
+@media only screen and (max-width: 765px) {
+  .followers-page .follower-card .follower-title .title {
+    font-size: 12px;
+  }
+  .followers-page .follower-card .follower-title .username {
+    font-size: 9px;
+  }
+  .followers-page .follower-card .follower-info {
+    font-size: 10px;
+  }
+  .followers-page .follower-card .follow-button {
+    font-size: 14px;
+  }
+  .followers-page .follower-card .follow-button .bx {
+    font-size: 18px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
